@@ -2,13 +2,13 @@
 'Spring 2025
 'RCET2265
 'Better Calculator
-'https://github.com/BrandLeBar/BetterCalc_BB.git
+'https://github.com/BrandLeBar/BetterCalculator.git
 
 Option Compare Text
 Option Strict On
 Option Explicit On
 
-Module BetterCalc_BB
+Module BetterCalculator
 
     Sub Main()
         Dim userInput As String

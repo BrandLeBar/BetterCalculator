@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{03BA6F46-6B07-4D62-816D-C8CFA06F04E9}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>Even_more_Examples.BetterCalc_BB</StartupObject>
+    <StartupObject>Sub Main</StartupObject>
     <RootNamespace>Even_more_Examples</RootNamespace>
     <AssemblyName>Even more Examples</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -69,7 +69,7 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BetterCalc_BB.vb" />
+    <Compile Include="BetterCalculator.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
